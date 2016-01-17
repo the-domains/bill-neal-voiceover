@@ -1,7 +1,7 @@
 name: Bill Neal Voiceover
 favicon: null
-layout_spectrum: 0.58896
-typography_spectrum: 0.74855
+layout_spectrum: 0.19204427837394178
+typography_spectrum: 0.056479852413758636
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3da3ce'
-    - '#ffffff'
-    - '#41423d'
-    - '#85c2de'
-    - '#90908e'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
   brandStrength: 0.9806301177013665
   lightness: 0.9094541985541582
   saturation: 0.45385455316863954
