@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Bill Neal Voiceover]]></title>
         <description><![CDATA[Bill Neal Voiceover]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bill-neal-voiceover/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 04:44:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jan 2016 04:47:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bill-neal-voiceover/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bill Neal | Voice Talent]]></title>
-            <description><![CDATA[<article><h1>Bill Neal | Voice Talent</h1><p>Hi...this is Bill Neal. This site is home to some examples of the type of work I do: Corporate narration (like sales and training videos, computer-based training, audio for the web, etc.), Documentary narration, Children's books narration and Commercials. Listen to the demos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb52979ece1b26b24ef6c8de021358f32cb938b5.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Bill Neal | Voice Talent</h1><p>Hi...this is Bill Neal. This site is home to some examples of the type of work I do: Corporate narration (like sales and training videos, computer-based training, audio for the web, etc.), Documentary narration, Children's books narration and Commercials. Listen to the demos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d062648f112f596646f7b0c645fa491bbc8cbad7.png"></article>]]></description>
             <link>http://billneal.com/</link>
             <guid isPermaLink="false">28ca0427-0858-4082-a283-b54c8efaa147</guid>
-            <pubDate>Wed, 20 Jan 2016 04:44:53 GMT</pubDate>
+            <pubDate>Wed, 20 Jan 2016 04:47:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
